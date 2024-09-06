@@ -1,4 +1,6 @@
-# How DHCP Works ?
+# How DHCP Works?
+
+# DHCP: Dynamic Host Configuration Protocol 
 
 ## What is DHCP?
 DHCP is a network protocol that automatically assigns IP addresses, subnet masks, gateways, and DNS settings to devices when they connect to a network. This saves you from having to manually configure network settings for each device.

@@ -68,7 +68,10 @@ When the DHCP Acknowledgment is sent from the router, it provides the following 
 - **DNS Server IP:** E.g., 8.8.8.8 (Google’s DNS server that will translate domain names like google.com into IP addresses).
 - **Lease Time:** E.g., 24 hours (after this time, the laptop will need to renew the lease and get a new or the same IP).
 
+![image](https://github.com/user-attachments/assets/08c7653f-b674-495d-86ba-d66d9c926b6b)
+
 ## How DHCP Relates to OSI Layers
+
 Here’s a quick look at how DHCP fits into the OSI model:
 - **Layer 1 (Physical Layer):** DHCP requests and responses travel over physical connections (like Ethernet or Wi-Fi).
 - **Layer 2 (Data Link Layer):** Initially, your laptop only knows its MAC address and uses it to communicate on the network.
